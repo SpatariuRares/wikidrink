@@ -2,7 +2,7 @@ import { Navbar, Sidebar, Footer } from "./components";
 
 import { useRoutes } from "react-router-dom";
 import { routes } from "./routes";
-import {BrowserRouter as Router,Link} from 'react-router-dom'
+import {BrowserRouter as Router} from 'react-router-dom'
 
 
 const Component = () => {
